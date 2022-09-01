@@ -17,7 +17,7 @@
         <p>Imprima por pantalla: “Hola mundo”.</p>
 
         <?php
-    echo 'Hola mundo';
+    echo "Hola mundo";
         ?>
     
     </section>
